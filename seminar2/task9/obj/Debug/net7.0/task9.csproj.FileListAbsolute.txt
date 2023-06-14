@@ -1,0 +1,15 @@
+C:\c##\seminar2\task9\obj\Debug\net7.0\task9.csproj.AssemblyReference.cache
+C:\c##\seminar2\task9\obj\Debug\net7.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\c##\seminar2\task9\obj\Debug\net7.0\task9.AssemblyInfoInputs.cache
+C:\c##\seminar2\task9\obj\Debug\net7.0\task9.AssemblyInfo.cs
+C:\c##\seminar2\task9\obj\Debug\net7.0\task9.csproj.CoreCompileInputs.cache
+C:\c##\seminar2\task9\bin\Debug\net7.0\task9.exe
+C:\c##\seminar2\task9\bin\Debug\net7.0\task9.deps.json
+C:\c##\seminar2\task9\bin\Debug\net7.0\task9.runtimeconfig.json
+C:\c##\seminar2\task9\bin\Debug\net7.0\task9.dll
+C:\c##\seminar2\task9\bin\Debug\net7.0\task9.pdb
+C:\c##\seminar2\task9\obj\Debug\net7.0\task9.dll
+C:\c##\seminar2\task9\obj\Debug\net7.0\refint\task9.dll
+C:\c##\seminar2\task9\obj\Debug\net7.0\task9.pdb
+C:\c##\seminar2\task9\obj\Debug\net7.0\task9.genruntimeconfig.cache
+C:\c##\seminar2\task9\obj\Debug\net7.0\ref\task9.dll

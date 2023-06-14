@@ -1,0 +1,15 @@
+C:\c##\dz1seminar\zadacha8\bin\Debug\net7.0\zadacha8.exe
+C:\c##\dz1seminar\zadacha8\bin\Debug\net7.0\zadacha8.deps.json
+C:\c##\dz1seminar\zadacha8\bin\Debug\net7.0\zadacha8.runtimeconfig.json
+C:\c##\dz1seminar\zadacha8\bin\Debug\net7.0\zadacha8.dll
+C:\c##\dz1seminar\zadacha8\bin\Debug\net7.0\zadacha8.pdb
+C:\c##\dz1seminar\zadacha8\obj\Debug\net7.0\zadacha8.csproj.AssemblyReference.cache
+C:\c##\dz1seminar\zadacha8\obj\Debug\net7.0\zadacha8.GeneratedMSBuildEditorConfig.editorconfig
+C:\c##\dz1seminar\zadacha8\obj\Debug\net7.0\zadacha8.AssemblyInfoInputs.cache
+C:\c##\dz1seminar\zadacha8\obj\Debug\net7.0\zadacha8.AssemblyInfo.cs
+C:\c##\dz1seminar\zadacha8\obj\Debug\net7.0\zadacha8.csproj.CoreCompileInputs.cache
+C:\c##\dz1seminar\zadacha8\obj\Debug\net7.0\zadacha8.dll
+C:\c##\dz1seminar\zadacha8\obj\Debug\net7.0\refint\zadacha8.dll
+C:\c##\dz1seminar\zadacha8\obj\Debug\net7.0\zadacha8.pdb
+C:\c##\dz1seminar\zadacha8\obj\Debug\net7.0\zadacha8.genruntimeconfig.cache
+C:\c##\dz1seminar\zadacha8\obj\Debug\net7.0\ref\zadacha8.dll
