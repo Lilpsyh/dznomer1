@@ -1,0 +1,15 @@
+C:\c##\seminar3\zadachu\bin\Debug\net7.0\zadachu.exe
+C:\c##\seminar3\zadachu\bin\Debug\net7.0\zadachu.deps.json
+C:\c##\seminar3\zadachu\bin\Debug\net7.0\zadachu.runtimeconfig.json
+C:\c##\seminar3\zadachu\bin\Debug\net7.0\zadachu.dll
+C:\c##\seminar3\zadachu\bin\Debug\net7.0\zadachu.pdb
+C:\c##\seminar3\zadachu\obj\Debug\net7.0\zadachu.csproj.AssemblyReference.cache
+C:\c##\seminar3\zadachu\obj\Debug\net7.0\zadachu.GeneratedMSBuildEditorConfig.editorconfig
+C:\c##\seminar3\zadachu\obj\Debug\net7.0\zadachu.AssemblyInfoInputs.cache
+C:\c##\seminar3\zadachu\obj\Debug\net7.0\zadachu.AssemblyInfo.cs
+C:\c##\seminar3\zadachu\obj\Debug\net7.0\zadachu.csproj.CoreCompileInputs.cache
+C:\c##\seminar3\zadachu\obj\Debug\net7.0\zadachu.dll
+C:\c##\seminar3\zadachu\obj\Debug\net7.0\refint\zadachu.dll
+C:\c##\seminar3\zadachu\obj\Debug\net7.0\zadachu.pdb
+C:\c##\seminar3\zadachu\obj\Debug\net7.0\zadachu.genruntimeconfig.cache
+C:\c##\seminar3\zadachu\obj\Debug\net7.0\ref\zadachu.dll

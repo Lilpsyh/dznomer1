@@ -7,15 +7,15 @@ int b = Convert.ToInt32(bl);
 Console.WriteLine("Введите число:"); 
 string? cl=Console.ReadLine();
 int c = Convert.ToInt32(cl);
-if(a>b && a>c){
+if((a>=b) && (a>=c)){
     Console.WriteLine($"max {a}"); 
 
 }
-if(a<b && b>c){
+if((b>=a) && (b>=c)){
     Console.WriteLine($"max {b}"); 
 
 }
-if(c>b && a<c){
+if((c>=b) && (c>=a)){
     Console.WriteLine($"max {c}"); 
 
 }

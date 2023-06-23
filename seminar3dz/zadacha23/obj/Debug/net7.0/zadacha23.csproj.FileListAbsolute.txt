@@ -1,0 +1,15 @@
+C:\c##\seminar3dz\zadacha23\obj\Debug\net7.0\zadacha23.csproj.AssemblyReference.cache
+C:\c##\seminar3dz\zadacha23\obj\Debug\net7.0\zadacha23.GeneratedMSBuildEditorConfig.editorconfig
+C:\c##\seminar3dz\zadacha23\obj\Debug\net7.0\zadacha23.AssemblyInfoInputs.cache
+C:\c##\seminar3dz\zadacha23\obj\Debug\net7.0\zadacha23.AssemblyInfo.cs
+C:\c##\seminar3dz\zadacha23\obj\Debug\net7.0\zadacha23.csproj.CoreCompileInputs.cache
+C:\c##\seminar3dz\zadacha23\bin\Debug\net7.0\zadacha23.exe
+C:\c##\seminar3dz\zadacha23\bin\Debug\net7.0\zadacha23.deps.json
+C:\c##\seminar3dz\zadacha23\bin\Debug\net7.0\zadacha23.runtimeconfig.json
+C:\c##\seminar3dz\zadacha23\bin\Debug\net7.0\zadacha23.dll
+C:\c##\seminar3dz\zadacha23\bin\Debug\net7.0\zadacha23.pdb
+C:\c##\seminar3dz\zadacha23\obj\Debug\net7.0\zadacha23.dll
+C:\c##\seminar3dz\zadacha23\obj\Debug\net7.0\refint\zadacha23.dll
+C:\c##\seminar3dz\zadacha23\obj\Debug\net7.0\zadacha23.pdb
+C:\c##\seminar3dz\zadacha23\obj\Debug\net7.0\zadacha23.genruntimeconfig.cache
+C:\c##\seminar3dz\zadacha23\obj\Debug\net7.0\ref\zadacha23.dll
