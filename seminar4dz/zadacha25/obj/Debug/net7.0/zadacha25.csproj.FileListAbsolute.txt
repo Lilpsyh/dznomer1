@@ -1,0 +1,15 @@
+C:\c##\seminar4dz\zadacha25\obj\Debug\net7.0\zadacha25.csproj.AssemblyReference.cache
+C:\c##\seminar4dz\zadacha25\obj\Debug\net7.0\zadacha25.GeneratedMSBuildEditorConfig.editorconfig
+C:\c##\seminar4dz\zadacha25\obj\Debug\net7.0\zadacha25.AssemblyInfoInputs.cache
+C:\c##\seminar4dz\zadacha25\obj\Debug\net7.0\zadacha25.AssemblyInfo.cs
+C:\c##\seminar4dz\zadacha25\obj\Debug\net7.0\zadacha25.csproj.CoreCompileInputs.cache
+C:\c##\seminar4dz\zadacha25\bin\Debug\net7.0\zadacha25.exe
+C:\c##\seminar4dz\zadacha25\bin\Debug\net7.0\zadacha25.deps.json
+C:\c##\seminar4dz\zadacha25\bin\Debug\net7.0\zadacha25.runtimeconfig.json
+C:\c##\seminar4dz\zadacha25\bin\Debug\net7.0\zadacha25.dll
+C:\c##\seminar4dz\zadacha25\bin\Debug\net7.0\zadacha25.pdb
+C:\c##\seminar4dz\zadacha25\obj\Debug\net7.0\zadacha25.dll
+C:\c##\seminar4dz\zadacha25\obj\Debug\net7.0\refint\zadacha25.dll
+C:\c##\seminar4dz\zadacha25\obj\Debug\net7.0\zadacha25.pdb
+C:\c##\seminar4dz\zadacha25\obj\Debug\net7.0\zadacha25.genruntimeconfig.cache
+C:\c##\seminar4dz\zadacha25\obj\Debug\net7.0\ref\zadacha25.dll

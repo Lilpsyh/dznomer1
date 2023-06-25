@@ -1,0 +1,15 @@
+C:\c##\seminar5\task31\obj\Debug\net7.0\task31.csproj.AssemblyReference.cache
+C:\c##\seminar5\task31\obj\Debug\net7.0\task31.GeneratedMSBuildEditorConfig.editorconfig
+C:\c##\seminar5\task31\obj\Debug\net7.0\task31.AssemblyInfoInputs.cache
+C:\c##\seminar5\task31\obj\Debug\net7.0\task31.AssemblyInfo.cs
+C:\c##\seminar5\task31\obj\Debug\net7.0\task31.csproj.CoreCompileInputs.cache
+C:\c##\seminar5\task31\bin\Debug\net7.0\task31.exe
+C:\c##\seminar5\task31\bin\Debug\net7.0\task31.deps.json
+C:\c##\seminar5\task31\bin\Debug\net7.0\task31.runtimeconfig.json
+C:\c##\seminar5\task31\bin\Debug\net7.0\task31.dll
+C:\c##\seminar5\task31\bin\Debug\net7.0\task31.pdb
+C:\c##\seminar5\task31\obj\Debug\net7.0\task31.dll
+C:\c##\seminar5\task31\obj\Debug\net7.0\refint\task31.dll
+C:\c##\seminar5\task31\obj\Debug\net7.0\task31.pdb
+C:\c##\seminar5\task31\obj\Debug\net7.0\task31.genruntimeconfig.cache
+C:\c##\seminar5\task31\obj\Debug\net7.0\ref\task31.dll
